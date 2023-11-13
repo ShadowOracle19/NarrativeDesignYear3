@@ -126,7 +126,7 @@ MonoBehaviour:
         there?\n\r\nI have to get out of here I will continue my research at home\u2026\n\r\nEnd
         Recording\n \r\n"
       diaryAudioClip:
-      - {fileID: 8300000, guid: ace02d5a815a5924f97a123a87707cf9, type: 3}
+      - {fileID: 8300000, guid: c3fad31cd7caed24f839a2a993baeff6, type: 3}
       diarySub:
       - showMore: 000000000000000000000000000000000000010101
         startPointsClip:
