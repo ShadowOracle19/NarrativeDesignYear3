@@ -13,13 +13,13 @@ MonoBehaviour:
   m_Name: ProjectManagerDatas
   m_EditorClassIdentifier: 
   helpBoxEditor: 0
-  currentDatasProjectFolder: Demo
-  int_CurrentDatasProjectFolder: 0
+  currentDatasProjectFolder: The Archivists Vault
+  int_CurrentDatasProjectFolder: 1
   int_CurrentDatasSaveSystem: 1
-  s_newProjectName: Name
+  s_newProjectName: The Archivists Vault
   languageList:
   - Default
-  s_newLanguageName: French
+  s_newLanguageName: English
   firstSceneBuildInIndex: 1
   buildinList:
   - 01_DefaultScene

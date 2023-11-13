@@ -1,0 +1,235 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 99a047fb42667477a9b2c2d4807b9b8f, type: 3}
+  m_Name: wTextnVoices
+  m_EditorClassIdentifier: 
+  diaryList:
+  - _languageSlot:
+    - diaryTitle:
+      - Title
+      diaryTextDisplayState: 00
+      diaryText:
+      - New Page
+      diaryAudioClip:
+      - {fileID: 0}
+      - {fileID: 8300000, guid: 0bb38877093e14025bb76c8d28cbcc36, type: 3}
+      - {fileID: 0}
+      diarySub:
+      - showMore: 000000
+        startPointsClip:
+        - 1.4657596
+        - 7.3287983
+        - 14.700047
+        firstLetter:
+        - 0
+        - 5
+        - 11.286307
+        lastLetter: 050000000400000005000000
+        bypasstextLayout: 010101
+        textSub:
+        - "Salut! Capcom a d\xE9taill\xE9 la nouvelle \xE9dition de street fighter
+          5."
+        - "Globalement annonc\xE9e pour le 16 f\xE9vrier prochain"
+        - Alors accrochez vous
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 1
+      prefabSizeInViewer: 0
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 0
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - Voice Name
+      diaryTextDisplayState: 01
+      diaryText:
+      - 
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 1
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - A Paper
+      diaryTextDisplayState: 01
+      diaryText:
+      - "08/14/18\r\n\nIt is very important.\r\n\nDon\u2019t forget to close the
+        door.\r\n\nPeter."
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 1
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 2
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - AlexisScript_01
+      diaryTextDisplayState: 01
+      diaryText:
+      - "Testing Testing 1 2 3. Ok it seems like I finally got this old thing to
+        work. I am head archivist of the enigma house Alexis Bright, I will be making
+        these recordings as I much prefer audio, and using this tape recorder will
+        keep my research secure. \n\nWell then let's get started, shall we\u2026I
+        say we but it is just me in here talking to this tape recorder. Regardless
+        the agents at the Enigma house have brought in an anomalous object that looks
+        like a small three-key lock. \rNothing out of the ordinary right? But whenever
+        it is affixed to an object such as a door or container it grows to fit around
+        it. The lock is then unable to be destroyed and opened by a lockpick. It
+        also seems to imbue this same effect on whatever it is affixed to.\n\nI wonder
+        if I can get approval to add this to the door of the archive\n\r\nFor now
+        I will be assigning the three keys primary colors so I can keep track of
+        them\n\r\nI will ask the higher-ups tomorrow. End recording\n\n\r\nAdditional
+        recording to tape 001 for anomalous object 1051. It appears I will need to
+        keep multiple keys of different colors along with the ones that lock and
+        unlock 1051. I have been finding the keys in different spots has someone
+        been entering the archive\u2026 I should hide the tapes as well\n\r\nW..who\u2019s
+        there?\n\r\nI have to get out of here I will continue my research at home\u2026\n\r\nEnd
+        Recording\n \r\n"
+      diaryAudioClip:
+      - {fileID: 8300000, guid: ace02d5a815a5924f97a123a87707cf9, type: 3}
+      diarySub:
+      - showMore: 000000000000000000000000000000000000010101
+        startPointsClip:
+        - 5.08674
+        - 9.712154
+        - 13.947513
+        - 17.260218
+        - 20.901102
+        - 23.721544
+        - 28.18287
+        - 32.6442
+        - 37.105526
+        - 41.07459
+        - 46.84862
+        - 50.817684
+        - 54.950832
+        - 59.904423
+        - 61.904423
+        - 63.994476
+        - 70.22983
+        - 78.92651
+        - 87.49005
+        - 90.96685
+        - 95.756355
+        firstLetter:
+        - 0
+        - 78
+        - 133
+        - 191
+        - 252
+        - 290
+        - 356
+        - 434
+        - 510
+        - 578
+        - 671
+        - 742
+        - 814
+        - 902
+        - 938
+        - 955
+        - 1015
+        - 1127
+        - 1248
+        - 1266
+        - 1331
+        lastLetter: 4d00000035000000380000003a00000026000000410000004d0000004c000000430000005c000000450000004500000055000000230000000d0000003b0000006f000000760000000f0000003e0000000d000000
+        bypasstextLayout: 000000000000000000000000000000000000000000
+        textSub:
+        - Testing Testing 1 2 3. Ok it seems like I finally got this old thing to
+          work.
+        - I am head archivist of the enigma house Alexis Bright
+        - I will be making these recordings as I much prefer audio
+        - and using this tape recorder will keep my research secure.
+        - "Well then let's get started, shall we\u2026"
+        - I say we but it is just me in here talking to this tape recorder.
+        - Regardless the agents at the Enigma house have brought in an anomalous
+          object
+        - "that looks like a small three-key lock. \rNothing out of the ordinary
+          right? "
+        - But whenever it is affixed to an object such as a door or container
+        - it grows to fit around it. The lock is then unable to be destroyed and
+          opened by a lockpick.
+        - It also seems to imbue this same effect on whatever it is affixed to.
+        - I wonder if I can get approval to add this to the door of the archive
+        - For now I will be assigning the three keys primary colors so I can keep
+          track of them
+        - I will ask the higher-ups tomorrow.
+        - End recording
+        - Additional recording to tape 001 for anomalous object 1051.
+        - It appears I will need to keep multiple keys of different colors along
+          with the ones that lock and unlock 1051.
+        - "I have been finding the keys in different spots has someone been entering
+          the archive\u2026 I should hide the tapes as well"
+        - "W..who\u2019s there?"
+        - "I have to get out of here I will continue my research at home\u2026"
+        - End Recording
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 1
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 3
+      itemType: 0
+      audioPriority: 0
+  helpBoxEditor: 1
+  idEditorSize: 20
+  titleEditorSize: 240
+  textEditorSize: 350
+  showMoreOptions: 0
+  showMoveUpDown: 1
+  showNameOptions: 0
+  listOfLanguage:
+  - English
+  currentLanguage: 0
+  fisrtTextDisplayedInEditor: 0
+  howManyEntryDisplayed: 20
+  selectedID: 3
+  b_EditSubtitle: 1
+  currentAudioSubtitleEdit: 0
+  editorType: 0
+  showDefaultLanguage: 0
+  multipleVoiceOver: 0
+  b_ShowEye: 0
+  b_UI_DisplayTextArea: 0
