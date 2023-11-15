@@ -22,7 +22,8 @@ MonoBehaviour:
   s_newLanguageName: English
   firstSceneBuildInIndex: 1
   buildinList:
-  - 01_DefaultScene
+  - 03_Level
+  - 02_Level
   - 00_MainMenu
   newSceneName: Level
   specificChar: \
