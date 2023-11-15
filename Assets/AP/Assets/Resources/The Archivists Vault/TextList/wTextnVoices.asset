@@ -76,33 +76,6 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - A Paper
-      diaryTextDisplayState: 01
-      diaryText:
-      - "08/14/18\r\n\nIt is very important.\r\n\nDon\u2019t forget to close the
-        door.\r\n\nPeter."
-      diaryAudioClip:
-      - {fileID: 0}
-      diarySub:
-      - showMore: 00
-        startPointsClip:
-        - 0
-        firstLetter:
-        - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
-        textSub:
-        - 
-      diarySprite:
-      - {fileID: 0}
-      refGameObject: {fileID: 0}
-      showInInventory: 1
-      prefabSizeInViewer: 0.5
-      prefabRotationInViewer: {x: 1, y: 1, z: 1}
-      uniqueItemID: 2
-      itemType: 0
-      audioPriority: 0
-    - diaryTitle:
       - AlexisScript_01
       diaryTextDisplayState: 01
       diaryText:
@@ -213,6 +186,228 @@ MonoBehaviour:
       uniqueItemID: 3
       itemType: 0
       audioPriority: 0
+    - diaryTitle:
+      - AlexisScript_02
+      diaryTextDisplayState: 01
+      diaryText:
+      - "Notes for statement 73284, Yet another reference to a Cassius Philippe.
+        They seem to be one of the enigma houses top investors but their name always
+        seems to come up within statements.\n\r\nThe higher-ups have told me not
+        to look into this as I have brought it up in my reports multiple times.\n\r\nIt
+        appears this time Mr. Philippe was selling the anomalous object 344 which
+        is here in the vault. Jimmy Kenney is the one to whom Mr. Philippe was selling
+        it to but the object is in special storage as it is highly dangerous. So
+        how would someone get their hands on it and as well sell it in the first
+        place?\n\r\nDid Mr. Philippe know it would cause harm to Mr. Kenney and then
+        end up in this facility?\r\n\r\nObject 344 has been inactive since it entered
+        the facility as we aren\u2019t able to induce the same effect reported from
+        Jimmy Kenney\u2019s statement\n\r\nI do feel like it is watching me though
+        I will have to keep my eye on it or maybe put it away for now\r\n\r\nI will
+        keep the number of times Cassius Philippe\u2019s name comes up within a notepad
+        in my desk\n\r\nEnd Recording\r\n"
+      diaryAudioClip:
+      - {fileID: 8300000, guid: 6b808dbff85ac8c4bbb6f6208fb4cd18, type: 3}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 1
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 4
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - AlexisScript_03
+      diaryTextDisplayState: 01
+      diaryText:
+      - "Alright let's try to record this one last time. It is currently\u2026 It's
+        already 3 a.m. Well, let's hope I can get this done.\r\n\r\nSo where was
+        I\u2026 Ah yes\r\n\r\nRegarding statement 12987 this one was made by Cassius
+        Philippe, regarding his experience with a book named The Malus Liber. There
+        are some odd notes in this book written in pen. It references some anomalies
+        we have here in the vault all of them had a reference to Mr. Philippe\n\r\nThe
+        higher-ups have requested that the Malus Liber be transported to another
+        facility but allowed me to study the book for today\r\n\r\nWhile this book
+        was in Mr. Philippe\u2019s possession he expressed concern about what he
+        described as objects coming to life and gaining weird properties. These objects
+        then gained an entry within Malus Liber. Can this book create anomalies?!\n\r\nAlthough
+        the more I try to read the book I find the words become more jumbled up.
+        Ugh, my head is killing me I should get more coffee\u2026\n\nWell then Alexis
+        I will be taking this back the higher-ups are paying a high price for this.
+        Hmm?\n\r\nAdditional recording after reviewing tape 035 I did not realize
+        it went on longer than I thought. No wonder the book went missing what could
+        Cassius or even the higher-ups want with a book that can create anomalies?\n\r\nThere
+        may be a statement somewhere here that could lead me in the right direction
+        I will record it once I find it\n\r\nEnd Recording\n\n"
+      diaryAudioClip:
+      - {fileID: 8300000, guid: ac8ae27639622bd4394f23a77a8b7439, type: 3}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 1
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 5
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - AlexisBright_01
+      diaryTextDisplayState: 01
+      diaryText:
+      - 
+      diaryAudioClip:
+      - {fileID: 8300000, guid: c3fad31cd7caed24f839a2a993baeff6, type: 3}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 6
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - Tape
+      diaryTextDisplayState: 01
+      diaryText:
+      - 
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 1
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 7
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - AlexisBright_01
+      diaryTextDisplayState: 01
+      diaryText:
+      - 
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 8
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - Alexis_02
+      diaryTextDisplayState: 01
+      diaryText:
+      - 
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 9
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - Anomaly 2546
+      diaryTextDisplayState: 01
+      diaryText:
+      - "Anomoly 2546\n\"Malus Liber\"\n\nAnomaly type: Object\r\n\r\nDescription:\r\nAnomalous
+        object 2546 or the Malus Liber is a leather-bound book containing a catalog
+        of anomalies assumingly all created by the Malus Liber. No matter how many
+        pages get filled within the book it never gets full and pages are able to
+        appear at will.\r\n\r\nFindings:\r\nMalus Liber is able to create new anomalies
+        and reading it for an extended period of time puts a strain on the reader's
+        mind usually leading to passing out (Note from Alexis Bright: I read it for
+        5 hours before the full effect happened and I passed out but headaches and
+        fatigue happened after an hour)\r\nHead Archivist Alexis Bright \r"
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 1
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 10
+      itemType: 0
+      audioPriority: 0
   helpBoxEditor: 1
   idEditorSize: 20
   titleEditorSize: 240
@@ -225,8 +420,8 @@ MonoBehaviour:
   currentLanguage: 0
   fisrtTextDisplayedInEditor: 0
   howManyEntryDisplayed: 20
-  selectedID: 3
-  b_EditSubtitle: 1
+  selectedID: 9
+  b_EditSubtitle: 0
   currentAudioSubtitleEdit: 0
   editorType: 0
   showDefaultLanguage: 0
