@@ -208,15 +208,59 @@ MonoBehaviour:
       diaryAudioClip:
       - {fileID: 8300000, guid: 6b808dbff85ac8c4bbb6f6208fb4cd18, type: 3}
       diarySub:
-      - showMore: 00
+      - showMore: 00000000000000000000000101
         startPointsClip:
-        - 0
+        - 5.050594
+        - 10.376595
+        - 14.347558
+        - 16.347557
+        - 17.23889
+        - 22.688076
+        - 29.4923
+        - 37.89793
+        - 43.593487
+        - 49.781784
+        - 59.419266
+        - 65.853935
+        - 71.05675
         firstLetter:
         - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
+        - 72
+        - 127
+        - 185.2
+        - 187.2
+        - 293.2
+        - 392.2
+        - 519.2
+        - 604.2
+        - 697.2
+        - 841.2
+        - 946.2
+        - 1041.2
+        lastLetter: 4700000036000000390000000100000067000000620000007e00000052000000590000008d000000650000005c0000000d000000
+        bypasstextLayout: 00000000000000000000000000
         textSub:
-        - 
+        - Notes for statement 73284, Yet another reference to a Cassius Philippe.
+        - They seem to be one of the enigma houses top investors
+        - but their name always seems to come up within statements.
+        - "\r"
+        - The higher-ups have told me not to look into this as I have brought it
+          up in my reports multiple times.
+        - It appears this time Mr. Philippe was selling the anomalous object 344
+          which is here in the vault.
+        - Jimmy Kenney is the one to whom Mr. Philippe was selling it to but the
+          object is in special storage as it is highly dangerous.
+        - So how would someone get their hands on it and as well sell it in the first
+          place?
+        - Did Mr. Philippe know it would cause harm to Mr. Kenney and then end up
+          in this facility?
+        - "Object 344 has been inactive since it entered the facility as we aren\u2019t
+          able to induce the same effect reported from Jimmy Kenney\u2019s statement"
+        - I do feel like it is watching me though I will have to keep my eye on it
+          or maybe put it away for now
+        - "I will keep the number of times Cassius Philippe\u2019s name comes up
+          within a notepad in my desk"
+        - End Recording
       diarySprite:
       - {fileID: 0}
       refGameObject: {fileID: 0}
@@ -232,7 +276,7 @@ MonoBehaviour:
       diaryText:
       - "Alright let's try to record this one last time. It is currently\u2026 It's
         already 3 a.m. Well, let's hope I can get this done.\r\n\r\nSo where was
-        I\u2026 Ah yes\r\n\r\nRegarding statement 12987 this one was made by Cassius
+        I\u2026 Ah right\r\n\r\nRegarding statement 12987 this one was made by Cassius
         Philippe, regarding his experience with a book named The Malus Liber. There
         are some odd notes in this book written in pen. It references some anomalies
         we have here in the vault all of them had a reference to Mr. Philippe\n\r\nThe
@@ -248,19 +292,79 @@ MonoBehaviour:
         it went on longer than I thought. No wonder the book went missing what could
         Cassius or even the higher-ups want with a book that can create anomalies?\n\r\nThere
         may be a statement somewhere here that could lead me in the right direction
-        I will record it once I find it\n\r\nEnd Recording\n\n"
+        I will record it once I find it\n\r\nEnd Recording"
       diaryAudioClip:
       - {fileID: 8300000, guid: ac8ae27639622bd4394f23a77a8b7439, type: 3}
       diarySub:
-      - showMore: 00
+      - showMore: 000000000000000000000000000000000001
         startPointsClip:
-        - 0
+        - 4.2869577
+        - 8.150852
+        - 15.656716
+        - 19.147831
+        - 25.807568
+        - 30.603409
+        - 35.399254
+        - 43.550106
+        - 47.902092
+        - 50.884327
+        - 54.375446
+        - 60.103237
+        - 68.25409
+        - 79.38718
+        - 88.84275
+        - 95.99058
+        - 102.8367
+        - 108.75088
         firstLetter:
         - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
+        - 48
+        - 126
+        - 154
+        - 219
+        - 279
+        - 333
+        - 434
+        - 520
+        - 566
+        - 636
+        - 716
+        - 806
+        - 942
+        - 1042
+        - 1140
+        - 1260
+        - 1376
+        lastLetter: 2f0000004b000000190000003f0000003b0000003500000062000000550000002a000000450000004f00000057000000860000005c0000006100000075000000710000000d000000
+        bypasstextLayout: 000000000000000000000000000000000000
         textSub:
-        - 
+        - Alright let's try to record this one last time.
+        - "It is currently\u2026 It's already 3 a.m. Well, let's hope I can get this
+          done.\r"
+        - "So where was I\u2026 Ah right\r"
+        - Regarding statement 12987 this one was made by Cassius Philippe
+        - regarding his experience with a book named The Malus Liber.
+        - There are some odd notes in this book written in pen.
+        - It references some anomalies we have here in the vault all of them had
+          a reference to Mr. Philippe
+        - The higher-ups have requested that the Malus Liber be transported to another
+          facility
+        - but allowed me to study the book for today
+        - "While this book was in Mr. Philippe\u2019s possession he expressed concern"
+        - about what he described as objects coming to life and gaining weird properties.
+        - These objects then gained an entry within Malus Liber. Can this book create
+          anomalies?!
+        - "Although the more I try to read the book I find the words become more
+          jumbled up. Ugh, my head is killing me I should get more coffee\u2026"
+        - Well then Alexis I will be taking this back the higher-ups are paying a
+          high price for this.
+        - Additional recording after reviewing tape 035 I did not realize it went
+          on longer than I thought.
+        - No wonder the book went missing what could Cassius or even the higher-ups
+          want with a book that can create anomalies?
+        - There may be a statement somewhere here that could lead me in the right
+          direction I will record it once I find it
+        - End Recording
       diarySprite:
       - {fileID: 0}
       refGameObject: {fileID: 0}
@@ -271,107 +375,176 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - AlexisBright_01
+      - AlexisScript_04
       diaryTextDisplayState: 01
       diaryText:
-      - 
+      - "Finally found the statement it looks like the enigma house is trying to
+        create and control anomalies.\r\n\r\nWithin statement 032223 this stems from
+        a complaint raised against the facility where agents were illegally entering
+        private property of one Henry James.\n\r\nThree days later Henry James made
+        this statement about multiple anomalous objects appearing around his house
+        but once brought into the enigma house by the agents they have since gone
+        silent. This cannot be a coincidence can it?\n\r\nSince the Malus Liber is
+        with the higherups I need to find out where they are keeping it something
+        is telling me I should not let them keep it \r\n\r\nWell it's late enough
+        as it is I should lock up now where are the keys\u2026\n\nEnd Recording\n\r\nAdditional
+        Recording\n\r\nSomeone has been entering the archives many of the anomalies
+        are missing I have since added more keys to hopefully throw whoever it is
+        off\n\r\nI also found out where they are keeping the Malus Liber I have to
+        get it tonight or risk them moving it elsewhere it is in the office of the
+        head of the enigma house.\n\nI will add an additional if I can find it\u2026or
+        if I get caught well we will see.\n\r\nEnd Recording\n\r\nI got the book
+        and wow there are so many more entries. It's nothing uniform though it looks
+        like they are trying to find or create something\r\n\r\nI need to hide this
+        before the higher-ups find out it's gone\n\r\nI also need to hide to finish
+        my research I should digitize everything so I can spread it on the internet\u2026\r\n\r\nWish
+        me luck\n\r\nEnd Recording\n"
       diaryAudioClip:
-      - {fileID: 8300000, guid: c3fad31cd7caed24f839a2a993baeff6, type: 3}
+      - {fileID: 8300000, guid: 2e3f7c39ef16bb9438a920d1f90df97a, type: 3}
       diarySub:
-      - showMore: 00
+      - showMore: 00000000000000000000000000000000000000000001
         startPointsClip:
-        - 0
+        - 4.091878
+        - 10.717479
+        - 17.520988
+        - 21.300064
+        - 26.85822
+        - 32.06056
+        - 35.128006
+        - 40.68616
+        - 43.219883
+        - 49.66758
+        - 52.37921
+        - 54.735027
+        - 63.139706
+        - 70.45147
+        - 73.1631
+        - 79.788704
+        - 81.788704
+        - 87.702675
+        - 92.905014
+        - 96.68409
+        - 102.77597
+        - 104.24224
         firstLetter:
         - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
+        - 105
+        - 198
+        - 261
+        - 370
+        - 452
+        - 491
+        - 580
+        - 638
+        - 711
+        - 727
+        - 750
+        - 891
+        - 1005
+        - 1059
+        - 1140
+        - 1156
+        - 1210
+        - 1300
+        - 1363
+        - 1473
+        - 1488
+        lastLetter: 650000005c0000003c0000006d00000051000000240000005800000035000000470000000d000000140000008a00000071000000340000004e0000000d00000036000000560000003c0000006a0000000c0000000d000000
+        bypasstextLayout: 00000000000000000000000000000000000000000000
         textSub:
-        - 
-      diarySprite:
-      - {fileID: 0}
-      refGameObject: {fileID: 0}
-      showInInventory: 0
-      prefabSizeInViewer: 0.5
-      prefabRotationInViewer: {x: 1, y: 1, z: 1}
-      uniqueItemID: 6
-      itemType: 0
-      audioPriority: 0
-    - diaryTitle:
-      - Tape
-      diaryTextDisplayState: 01
-      diaryText:
-      - 
-      diaryAudioClip:
-      - {fileID: 0}
-      diarySub:
-      - showMore: 00
-        startPointsClip:
-        - 0
-        firstLetter:
-        - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
-        textSub:
-        - 
+        - Finally found the statement it looks like the enigma house is trying to
+          create and control anomalies.
+        - Within statement 032223 this stems from a complaint raised against the
+          facility where agents
+        - were illegally entering private property of one Henry James.
+        - 'Three days later Henry James made this statement about multiple anomalous
+          objects appearing around his house '
+        - but once brought into the enigma house by the agents they have since gone
+          silent.
+        - This cannot be a coincidence can it?
+        - Since the Malus Liber is with the higherups I need to find out where they
+          are keeping it
+        - something is telling me I should not let them keep it
+        - "Well it's late enough as it is I should lock up now where are the keys\u2026"
+        - End Recording
+        - Additional Recording
+        - Someone has been entering the archives many of the anomalies are missing
+          I have since added more keys to hopefully throw whoever it is off
+        - I also found out where they are keeping the Malus Liber I have to get it
+          tonight or risk them moving it elsewhere
+        - it is in the office of the head of the enigma house.
+        - "I will add an additional if I can find it\u2026or if I get caught well
+          we will see."
+        - End Recording
+        - I got the book and wow there are so many more entries.
+        - ' It''s nothing uniform though it looks like they are trying to find or
+          create something'
+        - I need to hide this before the higher-ups find out it's gone
+        - "I also need to hide to finish my research I should digitize everything
+          so I can spread it on the internet\u2026"
+        - Wish me luck
+        - End Recording
       diarySprite:
       - {fileID: 0}
       refGameObject: {fileID: 0}
       showInInventory: 1
       prefabSizeInViewer: 0.5
       prefabRotationInViewer: {x: 1, y: 1, z: 1}
-      uniqueItemID: 7
+      uniqueItemID: 11
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - AlexisBright_01
+      - AlexisScript_05
       diaryTextDisplayState: 01
       diaryText:
-      - 
+      - "Whoever is listening to this tape it is most likely too late for me. The
+        Enigma house isn't just looking to study and contain anomalies. They want
+        to be able to create an anomaly to open up some kind of tear in reality.
+        God this is all so messed up.\n\r\nI am currently hiding within the vault.
+        If you are the new archivist and you have listened to my tapes just please
+        destroy these. I worry the company will do the same to you as they will to
+        me. I will hide the Malus Liber in the vault\u2026\n\r\nAhhh no stay away!
+        Let go!\n"
       diaryAudioClip:
-      - {fileID: 0}
+      - {fileID: 8300000, guid: d5b17f7f366f2e5499085517fadeca5b, type: 3}
       diarySub:
-      - showMore: 00
+      - showMore: 00000000000000
         startPointsClip:
-        - 0
+        - 4.6201315
+        - 8.000171
+        - 12.520243
+        - 16.620302
+        - 19.340322
+        - 25.720448
+        - 32.460583
         firstLetter:
         - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
+        - 69
+        - 137
+        - 220
+        - 252
+        - 382
+        - 490
+        lastLetter: 4400000043000000520000001d00000081000000690000001a000000
+        bypasstextLayout: 00000000000000
         textSub:
-        - 
+        - Whoever is listening to this tape it is most likely too late for me.
+        - The Enigma house isn't just looking to study and contain anomalies.
+        - They want to be able to create an anomaly to open up some kind of tear
+          in reality.
+        - God this is all so messed up.
+        - I am currently hiding within the vault. If you are the new archivist and
+          you have listened to my tapes just please destroy these.
+        - "I worry the company will do the same to you as they will to me. I will
+          hide the Malus Liber in the vault\u2026"
+        - Ahhh no stay away! Let go!
       diarySprite:
       - {fileID: 0}
       refGameObject: {fileID: 0}
       showInInventory: 0
       prefabSizeInViewer: 0.5
       prefabRotationInViewer: {x: 1, y: 1, z: 1}
-      uniqueItemID: 8
-      itemType: 0
-      audioPriority: 0
-    - diaryTitle:
-      - Alexis_02
-      diaryTextDisplayState: 01
-      diaryText:
-      - 
-      diaryAudioClip:
-      - {fileID: 0}
-      diarySub:
-      - showMore: 00
-        startPointsClip:
-        - 0
-        firstLetter:
-        - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
-        textSub:
-        - 
-      diarySprite:
-      - {fileID: 0}
-      refGameObject: {fileID: 0}
-      showInInventory: 0
-      prefabSizeInViewer: 0.5
-      prefabRotationInViewer: {x: 1, y: 1, z: 1}
-      uniqueItemID: 9
+      uniqueItemID: 12
       itemType: 0
       audioPriority: 0
     - diaryTitle:
@@ -406,6 +579,81 @@ MonoBehaviour:
       prefabSizeInViewer: 0.5
       prefabRotationInViewer: {x: 1, y: 1, z: 1}
       uniqueItemID: 10
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - Anomoly 344
+      diaryTextDisplayState: 01
+      diaryText:
+      - "Anomaly 344\r\n\u201CThe Box\u201D\r\n\r\nAnomaly type: Object/Living\r\n\r\nDescription:\r\nAnomaly
+        344 or The Box is a small cube with a slightly fluffy exterior and eyes that
+        appear occasionally. From statement 73284 Jimmy Kenney said the box had sprouted
+        sharp claws and legs and a big mouth it had attacked him the injuries he
+        sustained looked like he was attacked by a common house cat we have not been
+        able to replicate this change that Jimmy Kenney explained in his statement
+        however.\r\n\r\nFindings:\r\n\tAll studying has been inconclusive The Box
+        has been dormant since it was brought in by facility agents\r\n\r\n\tThe
+        only thing I can document is that I feel the box is watching me but whenever
+        I turn to it nothing\u2026\r\n\t-Alexis Bright Head Archivist \r\n"
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 1
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 13
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - Anomoly 1051
+      diaryTextDisplayState: 01
+      diaryText:
+      - "Anomaly 1051\r\n\u201CThe Lock\u201D\r\n\r\nAnomaly type: Object\r\n\r\nDescription:\r\n\tAnomalous
+        object 1051 or The Lock is a tricolored lock with three keyholes and a corresponding
+        key for each keyhole. \r\n\r\n\tThe lock is able to grow itself to fit on
+        any door or container once it is three keys will appear in the keyholds these
+        keys are dubbed Anomaly 1051-A, 10510-B, and 1051-C.\r\n\r\nFindings:\r\n\tThe
+        lock cannot be destroyed by every means we have here in the facility and
+        this property gets transferred to whatever the lock is affixed to.\r\n\r\n\tThe
+        use of a lockpick proved ineffective as the lockpick breaks within the lock
+        only the keys made from anomaly 1051 can unlock it.\r\n\r\n\t\r\nProtocol:\r\n\r\n\tThe
+        lock and keys must always be kept close together.\r\n\r\n\tThe keys must
+        be labeled with colors to know which lock it corresponds to.\r\n\r\nNew Protocol:
+        The lock has to always stay attached to the door of the archive and the keys
+        must be kept with the head archivist \r\n\r\nWarning:\r\n\tDo not lose the
+        keys for Anomaly 1051 you will be locked in or locked out for good which
+        will be cause for immediate termination for improper use of Anomaly 1051\r\n"
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 1
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 14
       itemType: 0
       audioPriority: 0
   helpBoxEditor: 1
