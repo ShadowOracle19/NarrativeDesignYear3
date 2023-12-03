@@ -201,6 +201,86 @@ MonoBehaviour:
       uniqueItemID: 6
       itemType: 0
       audioPriority: 0
+    - diaryTitle:
+      - Tarot_Card
+      diaryTextDisplayState: 01
+      diaryText:
+      - Card with a weird symbol
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 21300000, guid: 1687271e5c977458890f6cc40b105249, type: 3}
+      refGameObject: {fileID: 4386434755346127037, guid: efcb5944cd228764a805fecfaf2d5035,
+        type: 3}
+      showInInventory: 1
+      prefabSizeInViewer: 5
+      prefabRotationInViewer: {x: 11.999992, y: 59.999996, z: 290}
+      uniqueItemID: 7
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - Tarot_Card
+      diaryTextDisplayState: 01
+      diaryText:
+      - 
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 1
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 11.999992, y: 59.999996, z: 290}
+      uniqueItemID: 8
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - Keycode note
+      diaryTextDisplayState: 01
+      diaryText:
+      - 'Keycode: 67231'
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 9219444908672613580, guid: 8a725ba580ec3cb4f96d7eb169715721,
+        type: 3}
+      showInInventory: 1
+      prefabSizeInViewer: 5
+      prefabRotationInViewer: {x: 11.999992, y: 59.999996, z: 290}
+      uniqueItemID: 9
+      itemType: 0
+      audioPriority: 0
   helpBoxEditor: 1
   idEditorSize: 20
   titleEditorSize: 240
@@ -213,7 +293,7 @@ MonoBehaviour:
   currentLanguage: 0
   fisrtTextDisplayedInEditor: 2
   howManyEntryDisplayed: 50
-  selectedID: 5
+  selectedID: 9
   b_EditSubtitle: 0
   currentAudioSubtitleEdit: 0
   editorType: 1
