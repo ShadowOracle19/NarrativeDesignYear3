@@ -838,7 +838,7 @@ MonoBehaviour:
   currentLanguage: 0
   fisrtTextDisplayedInEditor: 0
   howManyEntryDisplayed: 20
-  selectedID: 12
+  selectedID: 10
   b_EditSubtitle: 0
   currentAudioSubtitleEdit: 0
   editorType: 0
